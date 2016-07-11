@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CheckQRTickets</string>
+
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="action_settings">settings</string>
+    <string name="network_settings">network</string>
+    <string name="txt_list_representation">Список представлений :</string>
+    <string name = "title_input_path_site_dialog">Network Settings</string>
+    <string name = "title_warning_dialog">Предупреждение!</string>
+
+    <string name = "title_success_dialog">Успешно</string>
+
+    <string name = "msg_success_check">Успешно Проверен!</string>
+
+    <string name = "msg_not_found_ticket">Билет не найден!</string>
+    <string name = "msg_error_parsing_json">Ошибка чтения JSON!</string>
+    <string name = "msg_warning_ticket">Билет не подходит к представлению!</string>
+    <string name = "msg_not_connect_to_internet">Проверьте подключение к интернету!</string>
+    <string name = "msg_error_get_data_from_server">Ошибка получения данных с сервера!</string>
+    <string name = "msg_list_represent_is_empty">На сегодня преставлений нету!</string>
+
+
+
+
+
+    <string name = "title_item_input_path_site">Network Settings</string>
+    <string name = "title_item_update">Update</string>
+    <string name = "btn_send_id_ticket">check</string>
+    <string name="msg_warning_check">Билет уже проверялся!</string>
+
+
+    <plurals name="subtitle_count_representation">
+        <item quantity="few">%1$s Представления</item>
+        <item quantity="many">%1$s Представлений</item>
+        <item quantity="one">%1$s Представление</item>
+        <item quantity="other">%1$s Представлений</item>
+
+    </plurals>
+
+</resources>
